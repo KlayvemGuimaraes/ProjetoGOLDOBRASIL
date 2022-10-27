@@ -4,7 +4,7 @@
 
 > COPA DO CATAR
 
-[Clique aqui para acessar]()
+[Clique aqui para acessar](https://klayvemguimaraes.github.io/ProjetoGOLDOBRASIL/copa_do_mundo/index.html)
 
 
 ## 🌍 Tecnologias
