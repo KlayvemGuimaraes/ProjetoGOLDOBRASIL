@@ -1,6 +1,6 @@
 # Projeto Copa do Mundo
 
-![preview](./github/copa2022.png)
+![preview](./copa_do_mundo/github/copa2022.png)
 
 > COPA DO CATAR
 
@@ -13,6 +13,7 @@
 - CSS
 - JAVASCRIPT
 - GITHUB
+- FIREBASE
 
 ## 📚 Contato
 
